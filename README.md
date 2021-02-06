@@ -8,3 +8,5 @@ CSS-Snippets
 @Shao CSS Styling for snippets
 
 @Nate html snippet content
+
+Github pages link: https://n8blake.github.io/CSS-Snippets/
