@@ -1,0 +1,21 @@
+*,
+*:before,
+*:after{
+
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    line-height: 1;
+    font-family: sans-serif;
+}
+
+h1,
+h3 {
+    font-size: 100%;
+}
+
